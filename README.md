@@ -2,7 +2,7 @@
 This is the source code of my submission for the Kaggle competition ["Bag of Words Meets Bags of Popcorn"]
 (https://www.kaggle.com/c/word2vec-nlp-tutorial). The leader board score is 0.9766.
 
-The model is an ensemble of NBSVM, Paragraph Vector and Gated Recurrent Neural Network. It was based on the code 
+The model is an ensemble of NBSVM, Paragraph Vector and Gated Recurrent Neural Network. It is based on the code 
 from the paper ["Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews"]
 (http://arxiv.org/abs/1412.5335) by Grégoire Mesnil and others.
 
