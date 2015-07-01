@@ -9,7 +9,7 @@ the code in the paper ["Ensemble of Generative and Discriminative Techniques for
 ### How to run ###
 * The data should be put into the directory [data](https://github.com/vinhkhuc/kaggle-sentiment-popcorn/tree/master/data).
 
-* The code uses numpy, pandas, Theano and passage. They can be installed by running: 
+* The code requires numpy, pandas, Theano and passage. They can be installed by running: 
 ```
 sudo pip install -r requirements.txt
 ```
