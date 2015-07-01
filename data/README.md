@@ -4,4 +4,4 @@ This folder should contain the following files:
 * testData.tsv
 * unlabeledTrainData.tsv
 
-They can be downloaded from [here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
+They can be downloaded from [here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data).
